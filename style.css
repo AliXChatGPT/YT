@@ -1,0 +1,70 @@
+<!DOCTYPE html>  <html lang="tr">  <head>  
+  <meta charset="UTF-8">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>YouTube'a Nasıl Gidilir</title>    <style>  
+    .youtube {  
+      margin: 15px;  
+      height: auto;  
+      width: 90%;  
+      max-width: 400px;  
+      text-align: center;  
+      font-style: italic;  
+      box-shadow: 0 10px 20px red;  
+      cursor: pointer;  
+      transition: 0.5s;  
+      opacity: 0.8;  
+      color: red;  
+      font-size: 30px;  
+      background-color: black;  
+      border-radius: 20px;  
+      border: 5px solid white;  
+      padding: 25px;  
+    }  
+  
+    .youtube:hover {  
+      background-color: red;  
+      transform: scale(1.05);  
+      opacity: 1;  
+    }  
+  
+    .youtube a {  
+      text-decoration: none;  
+      color: white;  
+      font-family: Arial, sans-serif;  
+      letter-spacing: 2px;  
+      margin: 25px;  
+      display: inline-block;  
+      padding: 10px;  
+      border-radius: 10px;  
+      background-color: red;  
+      transition: 0.3s;  
+    }  
+  
+    .youtube a:hover {  
+      background-color: green;  
+    }  
+  
+    .youtube img {  
+      width: 100%;  
+      height: auto;  
+      border-radius: 15px;  
+    }  
+  </style>  </head>  <body>    <div class="youtube">  <a href="https://youtube.com">  
+  Siteye Git  
+</a>  
+
+<h2>YouTube'a Nasıl Gidilir</h2>  
+
+<h5>1. Siteye Git'e Tıkla</h5>  
+
+<img  
+  src="file_00000000e0f082108fcbefe28720e533.png"  
+  alt="YouTube Logo"  
+>
+
+  </div>  
+
+  <script>
+    alert("YouTube sayfama hoş geldin!");
+  </script> 
+  </body>  
+  </html>
